@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "44934941546",
+    "project_id": "firebase-appegresados"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44934941546:android:825b843284495a1b",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.appegresados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44934941546-9j4mft4gr3r5s9ok47ejfn9gg70mfbp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.appegresados",
+            "certificate_hash": "E7531B63E3E9C922AF27BF67BAC9BB5AC1F78428"
+          }
+        },
+        {
+          "client_id": "44934941546-tlku2sam5eu5p28lu65q7n7e5f3nqtkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVv5JnkvRLWMQ1JPA8EcBREeoLuHRExGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
